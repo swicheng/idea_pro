@@ -3,10 +3,9 @@ package com.swic.dayone;
 public class Configuration {
 
     public static void main(String[] args) {
-
-      for (int j=0 ; j<100 ; j++){
-          System.out.println(j);
-      }
+        System.out.println("red");
+        System.out.println("hot_fix");
+        System.out.println("hot_fix_er");
 
     }
 
